@@ -1,2 +1,3 @@
 # Stack-from-scratch-using-LinkedList
-Fun making this....
+Implementation of Stack Data Structure using LinkedList from Scratch in C++.
+
